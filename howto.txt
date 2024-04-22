@@ -1,0 +1,7 @@
+run :
+ng serve --port 4201
+
+
+
+compile :
+ng build
